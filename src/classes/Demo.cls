@@ -3,6 +3,7 @@ public class Demo {
 <<<<<<< HEAD
 //Hello Git!!
 //New test class
+//this is another commit
 }
 =======
 }
