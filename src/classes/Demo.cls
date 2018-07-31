@@ -1,5 +1,5 @@
 public class Demo {
 //new test Demo class
-//Hello Git!!
+//Git says Hi
 //New test class
 }
