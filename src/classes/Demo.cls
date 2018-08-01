@@ -4,4 +4,5 @@ public class Demo {
 //Hello Git!!
 //Let's learn git here
 //New test class
+ //Mention Conflicts resolved
 }
