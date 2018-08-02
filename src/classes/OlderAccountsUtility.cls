@@ -7,7 +7,7 @@ public static void updateOlderAccounts() {
           acct.Description = 'Heritage Account';
       }
       // save the change you made
-      //a new feature added 
+      //this needs a new feature
       update oldAccounts;
     }
 }
