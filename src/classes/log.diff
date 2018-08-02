@@ -1,0 +1,19 @@
+diff --git a/src/classes/Acc.cls b/src/classes/Acc.cls
+deleted file mode 100644
+index a0043e9..0000000
+--- a/src/classes/Acc.cls
++++ /dev/null
+@@ -1,2 +0,0 @@
+-//This is an Account Class
+-//This stores all information regarding acccounts
+diff --git a/src/classes/new.cls b/src/classes/new.cls
+deleted file mode 100644
+index 86f5f53..0000000
+--- a/src/classes/new.cls
++++ /dev/null
+@@ -1,4 +0,0 @@
+-public class new {
+-//this is a new sample class
+-//test comment
+-}
+//this is a diff file
