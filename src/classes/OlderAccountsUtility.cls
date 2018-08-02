@@ -8,6 +8,7 @@ public static void updateOlderAccounts() {
       }
       // save the change you made
       //this needs a new feature
+      //added new attributes
       update oldAccounts;
     }
 }
