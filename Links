@@ -6,6 +6,8 @@ https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
 
 *********************************************************************************
 http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+
+https://medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807
 *********************************************************************************
 
 https://git-scm.com/docs/gittutorial
@@ -20,5 +22,11 @@ http://www.vogella.com/tutorials/Git/article.html
 http://marklodato.github.io/visual-git-guide/index-en.html
 **********************************************************************************
 https://docs.microsoft.com/en-us/azure/devops/git/what-is-git
+
+**********************************************************************************
+https://services.github.com/on-demand/github-cli/git-push-git-pull
+
+****************************GIT AUTOMATION****************************************
+https://tjhunt.blogspot.com/2012/08/automating-git.html
 
 */
